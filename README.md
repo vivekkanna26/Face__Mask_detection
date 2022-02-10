@@ -2,8 +2,7 @@
 Face mask detection model with accuracy
 
 
-Amidst the ongoing Covid-19 pandemic.A face mask as per studies can prevent Covid 19 spread to a great level
-Face Mask detection is very important tool for finding if the person detected is wearing a face mask or not
+With regards to the scenario in 2020 due to Covid-19, a much in demand face mask detection model was developed. Using Deep Neural network and CNN. Model accuracy is very high on the test set. The Open CV was used to detected the face using the webcam video and the preprocessed frames were sent into the model to establish if the person is wearing a face mask or not. The model is capable of predicting multiple faces at the same time.
 
 
 Masked
